@@ -6,3 +6,7 @@ this web application uses the Shiny R package and the Spotify APIs to collect ar
 features. 
 
 The app also allows to visualize and compare the distribution of calculated audio features such as the danceability, energy, valence, tempo, and speechiness of up to two artists.
+
+hosted on:
+
+https://lesther.shinyapps.io/spotify

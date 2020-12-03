@@ -1,0 +1,10 @@
+name: spotify
+title:
+username:
+account: lesther
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2063162
+bundleId: 3079177
+url: https://lesther.shinyapps.io/spotify/
+when: 1588119063.55416

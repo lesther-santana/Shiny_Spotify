@@ -11,8 +11,8 @@ library(htmltools)
 library(plotly)
 
 
-Sys.setenv(SPOTIFY_CLIENT_ID = '5f2f5b6e91c54dbfae4bf35df64cf62d')
-Sys.setenv(SPOTIFY_CLIENT_SECRET = 'efdaf2772acc4e8cbd2cad592035e5ef')
+Sys.setenv(SPOTIFY_CLIENT_ID = '*')
+Sys.setenv(SPOTIFY_CLIENT_SECRET = '*')
 
 access_token <- get_spotify_access_token()
 
